@@ -1,3 +1,6 @@
 [submodule "submodules/timm"]
 	path = submodules/timm
 	url = https://github.com/huggingface/pytorch-image-models
+[submodule "notebooks/fastai/submodules/timm"]
+	path = notebooks/fastai/submodules/timm
+	url = https://github.com/huggingface/pytorch-image-models
